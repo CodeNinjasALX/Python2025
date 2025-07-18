@@ -1,0 +1,11 @@
+name = input("Give me a name: ")
+name2 = input("Give me another name: ")
+adj = input("Give me a adjective: ")
+adj2 = input("Give me another adjective: ")
+noun = input("Give me a noun: ")
+noun2 = input("Give me another noun: ")
+noun3 = input("Give me another noun: ")
+noun4 = input("Give me another noun: ")
+famous = input("Give me a famous person: ")
+
+print(name + " " + name2," took a " + adj + " leap through the " + adj2 + ", dodging "+ noun + " " + noun2 + " " + noun3 + " " + noun4 + " " + ",all while trying to impress " + famous)
